@@ -15,3 +15,7 @@ My last name is pronounced as SEER/SEAR (whichever, take your pick) and I though
 This website was made using [Jekyll](https://jekyllrb.com/) and it's hosted on [Neocities](https://neocities.org/).
 
 For styling I use [water.css](https://kognise.github.io/water.css/). It's a classless CSS theme - you can find more on [CSS Bed](https://www.cssbed.com/).
+
+# Get in touch 
+
+You can contact me at jonathan cyr at fastmail dot com.
