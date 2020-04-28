@@ -18,4 +18,4 @@ For styling I use [water.css](https://kognise.github.io/water.css/). It's a clas
 
 # Get in touch 
 
-You can contact me at jonathan cyr at fastmail dot com.
+You can contact me at `jonathan cyr at fastmail dot com`.
