@@ -6,7 +6,7 @@ title: Home
 
 My name is Jonathan Cyr, but please call me Jonny. I’m a programmer.
 
-Online I'm known as __Cyrialize__, it's a combination of my lastname and [serialization](https://en.wikipedia.org/wiki/Serialization). 
+Online I'm known as __Cyrialize__, it's a combination of my last name and [serialization](https://en.wikipedia.org/wiki/Serialization). 
 
 My last name is pronounced as SEER/SEAR (whichever, take your pick) and I thought it sounded cool when combined.
 
