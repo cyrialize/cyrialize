@@ -41,7 +41,7 @@ if (width > 961) {
         let innerImg = generatePopUpImg(imgs[i]);
 
         imgs[i].onclick = function() {
-            modal.style.display = "block";
+            modal.style.display = "flex";
             console.log(imgs[i]);
         }
 
