@@ -1,0 +1,11 @@
+<div class="pure-menu pure-menu-horizontal">
+    <ul class="pure-menu-list">
+        {% for item in site.data.navigation %}
+            <li class="pure-menu-item {% if current[0] == item.link %}pure-menu-selected{% endif %}">
+                <a href="{{ item.link }}" class="pure-menu-link">
+                    {{ item.name }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }}</title>
+
+    <script src="https://kit.fontawesome.com/5c1cdaa87f.js" crossorigin="anonymous"></script>
+    
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css">
+
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+      <h1 id="main-header"><a href="/">Cyrialize</a></h1>
+      <div class="content">
+        <div class="center-content">
+          {% include navigation.html %}
+          {{ content }}
+        </div>
+      </div>
+      <script src="/assets/js/main.js"></script>
+  </body>
+</html>

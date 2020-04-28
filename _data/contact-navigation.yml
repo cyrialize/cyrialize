@@ -1,0 +1,9 @@
+- name: github
+  class: fab fa-github
+  link: https://github.com/cyrialize
+- name: twitter
+  class: fab fa-twitter
+  link: https://twitter.com/cyrialize
+- name: linkedin
+  class: fab fa-linkedin-in
+  link: https://www.linkedin.com/in/cyrialize/

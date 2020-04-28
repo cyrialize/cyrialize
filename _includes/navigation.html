@@ -1,0 +1,18 @@
+<ul class="nav-menu">
+    {% for item in site.data.contact-navigation %}
+        <li class="nav-li">
+            <a href="{{ item.link }}" class="nav-link nav-contact-link">
+                <i class="{{ item.class }}"></i>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
+<ul class="nav-menu">
+    {% for item in site.data.navigation %}
+        <li class="nav-li">
+            <a href="{{ item.link }}" class="nav-link nav-contact-link">
+                {{ item.name }}
+            </a>
+        </li>
+    {% endfor %}
+</ul>
