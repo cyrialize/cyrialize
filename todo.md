@@ -5,3 +5,4 @@
 - [ ] Download fontawesome and replace CDN
 - [ ] Include https://adblockbar.neocities.org/
 - [ ] Add PGP key to website
+- [ ] Add a button to from districts buttons at https://districts.neocities.org/buttons/ - remember not to hotlink!
