@@ -16,6 +16,8 @@ This website was made using [Jekyll](https://jekyllrb.com/) and it's hosted on [
 
 For styling I use [water.css](https://kognise.github.io/water.css/). It's a classless CSS theme - you can find more on [CSS Bed](https://www.cssbed.com/).
 
+You can find the source of this website [here](https://github.com/cyrialize/cyrialize).
+
 # Get in touch 
 
 You can contact me at `jonathan cyr at fastmail dot com`.
