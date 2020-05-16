@@ -4,9 +4,6 @@
 - name: twitter
   class: fab fa-twitter
   link: https://twitter.com/cyrialize
-- name: linkedin
-  class: fab fa-linkedin-in
-  link: https://www.linkedin.com/in/cyrialize/
 - name: hacker news
   class: fab fa-hacker-news-square
   link: https://news.ycombinator.com/user?id=cyrialize
