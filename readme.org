@@ -1,0 +1,8 @@
+Hi! I like Emacs. Say hi at ~mail at cyrialize dot dev~.
+
+You can find out more about me at https://cyrialize.dev/about/!
+
+Find me on:
+- [[https://bsky.app/profile/cyrialize.dev][Bluesky]]
+- [[https://news.ycombinator.com/user?id=cyrialize][Hacker News]]
+- [[https://www.emacswiki.org/emacs/Cyrialize][Emacs Wiki]]
